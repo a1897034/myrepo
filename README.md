@@ -144,7 +144,7 @@ if __name__ == "__main__":
 ```
 
 ## Summary and Conclusion:
-We conclude that RSA will always have a longer program runtime than both AES and DES, since it was designed to encrypt and decrypt messages and protocols more securely by means of number generation.
+We conclude that RSA will always have a longer program runtime than both AES and DES, since it was designed to encrypt and decrypt messages and protocols more securely by means of number generation. Additionally, the more secure an algorithm, the longer it will take to run.
 
 THE END
 
